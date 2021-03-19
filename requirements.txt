@@ -14,7 +14,7 @@ django-tempus-dominus==5.1.2.9
 django-treebeard==4.3
 django-vote==2.1.7
 django-countries==6.0
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 draftjs-exporter==2.1.7
 html5lib==1.0.1
 idna==2.8
